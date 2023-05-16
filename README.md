@@ -4,3 +4,5 @@ it also has a search engine with which you can find any movie that I have on The
 this specific application with the information to function.
 
 You need to add your own The Movie DB platform apikey for it to work, or reuse the code to make a request to another platform.
+
+This application was also developed in the Flutter course that is taught on the Udemy platform.
